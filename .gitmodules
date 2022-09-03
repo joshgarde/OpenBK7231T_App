@@ -16,3 +16,6 @@
 [submodule "sdk/OpenW800"]
 	path = sdk/OpenW800
 	url = https://github.com/openshwprojects/OpenW800.git
+[submodule "sdk/FastLED"]
+	path = sdk/FastLED
+	url = git@github.com:FastLED/FastLED.git
